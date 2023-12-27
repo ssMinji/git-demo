@@ -1,6 +1,10 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Lee
+=======
+manager: Nee
+>>>>>>> e20f5008dd30d9bb8a59e82019ddbabcce63a8dd
 
 members:
 - Linda
