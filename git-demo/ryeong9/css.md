@@ -1,6 +1,6 @@
 category: css
 title: css basic
-lectures: Ryu
+lectures: Cho
 related:
 
 - html
