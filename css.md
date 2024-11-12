@@ -1,5 +1,5 @@
 category: css
-lectures: Cho
+lectures: Lee
 related:
 - html
 - xcss
