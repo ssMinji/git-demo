@@ -1,6 +1,6 @@
 category: java
 title: java level2
-lectures: Kang
+lectures: Kim
 related:
 
 -   xcss
