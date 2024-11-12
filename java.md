@@ -10,4 +10,4 @@ related:
 - eclipse
 - springboot
 - exception
-- extends
+- extend
