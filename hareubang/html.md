@@ -1,7 +1,7 @@
 category: html
 title: html basic
 lectures: Kwang
-related:
+related: web
 
 - css
 - javascript
