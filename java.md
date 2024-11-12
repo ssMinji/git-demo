@@ -1,7 +1,7 @@
 java.md 
 
 category: java
-lectures: Lim
+lectures: Kang
 related:
 - spring
 - MVC
