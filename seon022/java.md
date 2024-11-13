@@ -8,3 +8,5 @@ related:
 -   springboot
 -   exception
 -   inherit
+
+hook test
