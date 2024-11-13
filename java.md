@@ -12,3 +12,5 @@ related:
 - exception
 - inherit
 - extends
+
+hook test
